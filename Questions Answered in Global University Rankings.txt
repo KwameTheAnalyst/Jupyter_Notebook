@@ -5,6 +5,7 @@ Check the data types of each column and convert them if necessary.
 Check for missing values and decide how to handle them.
 Check for outliers and anomalies in the data.
 Visualize the data to get a better understanding of the distribution of the variables.
+
 Ranking analysis:
 
 Calculate the mean, median, and standard deviation of the rank variable.
@@ -12,13 +13,7 @@ Visualize the distribution of the rank variable using a histogram or box plot.
 Group the data by country and calculate the mean rank for each country.
 Identify the top 10 universities based on the overall score and rank variables.
 Calculate the correlation between the rank variable and the other variables to see if there are any relationships.
-Subject analysis:
 
-Check the number of universities that offer each subject.
-Group the data by subject and calculate the mean rank for each subject.
-Visualize the mean rank for each subject using a bar chart or heatmap.
-Calculate the correlation between the rank variable and each subject to see if there are any relationships.
-Identify the top universities for each subject.
 Student analysis:
 
 Calculate the student-to-staff ratio for each university.
